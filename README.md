@@ -24,7 +24,7 @@ different occasions.
 specific occasions.
 
 ## Dashboard
--<a herf="https://github.com/yarrajhansirani/FNP-/blob/main/fnp%20sales.png">Dashboard</a>
+- <a herf="https://github.com/yarrajhansirani/FNP-/blob/main/fnp%20sales.png">Dashboard</a>
 
 ## Discription
 Using Excel and Power Query, FNP Sales Analytics analyses sales performance, customer patterns, and revenue insights by cleaning, transforming, and visualising data. It offers actionable corporate intelligence, improves decision-making, and automates reporting.
