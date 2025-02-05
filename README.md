@@ -3,7 +3,8 @@
 
 This project presents a Sales Analysis Dashboard for Ferns N Petals (FNP), a company specializing in gifts and special occasion products. The dashboard provides a detailed visualization of sales performance across multiple dimensions, enabling data-driven decision-making.
 
-
+## Data Set Used
+https://github.com/yarrajhansirani/FNP-/blob/main/fnp%20sales.xlsx
 
 
 ## Discription
